@@ -125,8 +125,8 @@ Premium flow:
 
 ## Team
 
-- TBD - @your-github-username
+- John Ray - @jrbuenaobradevs
 
 ## License
 
-MIT
+Apache-2.0
