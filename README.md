@@ -125,7 +125,7 @@ Premium flow:
 
 ## Team
 
-- TBD - @your-github-username
+- John Ray - @jrbuenaobradevs
 
 ## License
 
