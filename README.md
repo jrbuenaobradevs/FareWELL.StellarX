@@ -129,4 +129,4 @@ Premium flow:
 
 ## License
 
-MIT
+Apache 2.0
