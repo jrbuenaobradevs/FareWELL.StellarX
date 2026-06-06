@@ -48,10 +48,10 @@ Social Impact / Consumer Apps, because FareWELL focuses on family preparedness, 
 
 ## Setup & Run
 
-A judge can run the app locally with Node.js 20+, npm, and the Freighter browser extension set to Test Net.
+Run the app locally with Node.js 20+, npm, and the Freighter browser extension set to Test Net.
 
 ```bash
-git clone [your repo]
+git clone https://github.com/jrbuenaobradevs/FareWELL.StellarX
 cd FareWELL
 
 npm install
