@@ -34,9 +34,7 @@ Stellar is a good fit because the app needs inexpensive, fast, human-wallet-sign
 
 ## Track
 
-TBD - StellarX Philippines track.
-
-Suggested fit: Social Impact / Consumer Apps, because FareWELL focuses on family preparedness, digital legacy, and trusted delivery.
+Social Impact / Consumer Apps, because FareWELL focuses on family preparedness, digital legacy, and trusted delivery.
 
 ## Tech Stack
 
@@ -92,7 +90,7 @@ Local URLs:
 - App: `http://localhost:3001`
 - API health check: `http://localhost:4000/health`
 
-Demo flow:
+User flow:
 
 1. Open `http://localhost:3001`.
 2. Register or sign in with a name and email.
